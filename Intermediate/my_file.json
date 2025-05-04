@@ -1,1 +1,10 @@
-{"name": "Brais", "surname": "Moure", "age": 35, "language": "Python"}
+{
+  "name": "Brais",
+  "surname": "Moure",
+  "age": 35,
+  "languages": [
+    "Python",
+    "JavaScript",
+    "Java"
+  ]
+}

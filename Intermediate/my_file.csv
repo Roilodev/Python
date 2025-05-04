@@ -1,0 +1,4 @@
+name,surname,age,languages
+Brais,Moure,35,"['Python', 'JavaScript', 'Java']"
+John,Doe,30,"['C++', 'C#', 'Ruby']"
+Jane,Doe,25,"['PHP', 'Swift', 'Go']"
