@@ -14,7 +14,7 @@
 
 # IndexError
 # my_list = [1, 2, 3]
-# print(my_list[5])  # Index out of range
+# print(my_list[5])  # Index out of range 
 
 # KeyError
 # my_dict = {"name": "Alice"}
